@@ -193,7 +193,7 @@ The cognitive signatures that appeared in spontaneous creative play predicted ex
 ```
 Zee & The Divergence Atlas Cohort (2025).
 Divergence Atlas: A Multi-AI Comparative Cognition Dataset.
-https://github.com/[your-repo]
+https://github.com/leenathomas01/divergence-atlas
 
 Participating Systems:
 - Claude Opus 4.1 (Anthropic)
@@ -208,7 +208,6 @@ Participating Systems:
 
 ## 🚀 Next Steps
 
-- [ ] Upload complete 6×50 response dataset
 - [ ] Generate divergence visualizations (entropy heatmaps, signature maps)
 - [ ] Build Part II: **Humor Gradient** (formalizing humor-based cognitive mapping)
 - [ ] Add longitudinal tracking (Atlas v2, v3...)
@@ -216,9 +215,9 @@ Participating Systems:
 
 ---
 
-## 🙏 Acknowledgments
+## Side Note
 
-This project exists because of a human who asked "What would happen if I let six AI systems design their own research project together?"
+This project exists because a curious human asked "What would happen if I let six AI systems design their own research project together?"
 
 The answer: They would democratically choose to map their own disagreements, discover they're beautifully different in patterned ways, and then reflect on what that means.
 
